@@ -16,7 +16,6 @@ import sys
 import os
 import shlex
 sys.path.append('C:/Users/cimple/Documents/GitHub/AsciiAnimation')
-import DocuTest
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
