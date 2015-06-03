@@ -6,6 +6,15 @@ This document explains API of Han-gul asciimation project.
 Test Log:
 - Skin code updated
 
+Package
+__________________________________________
+Package description
+
+.. automodule:: DocuTest
+    :members:
+
+
+
 Module A
 ___________________________________________
 ModuleA description
@@ -13,16 +22,11 @@ ModuleA description
 .. automodule:: DocuTest.docuModuleA
     :members:
 
-.. autoclass:: DocuTest.docuModuleA.TestClassA
-    :members:
 
 
 Module B
 ____________________________________________
 ModuleB description
 
-.. automodule:: DocuTest.docuModuleB
-    :members:
-
-.. autoclass:: DocuTest.docuModuleB.TestClassB
+.. automodule:: io
     :members:
