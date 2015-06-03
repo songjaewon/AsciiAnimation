@@ -116,8 +116,13 @@ todo_include_todos = False
 # documentation.
 #html_theme_options = {}
 
+# on_rtd is whether we are on readthedocs.org, this line of code grabbed from docs.readthedocs.org
 on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
-
+# only import and set the theme if we're building docs locally
+if not on_rtd:
+    import sphinx_rtd_theme
+    html_theme = 'sphinx_rtd_theme'
+    html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 # Add any paths that contain custom themes here, relative to this directory.
 #html_theme_path = []
 

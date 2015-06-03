@@ -4,7 +4,7 @@ API
 This document explains API of Han-gul asciimation project.
 
 Test Log:
-- Delete setup file, edit conf.py file with rel path
+- Skin code updated
 
 Module A
 ___________________________________________
