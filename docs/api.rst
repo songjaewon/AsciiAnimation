@@ -3,7 +3,7 @@ API
 
 This document explains API of Han-gul asciimation project.
 
-Test: Add module path to conf.py
+Test Log: conf.py file edited - extensions = ['sphin..'] added
 
 Module #1
 ___________________________________________
