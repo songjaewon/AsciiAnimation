@@ -4,7 +4,7 @@ API
 This document explains API of Han-gul asciimation project.
 
 Test Log:
-- Something is clear.
+- Adding setup.py
 
 
 Package
