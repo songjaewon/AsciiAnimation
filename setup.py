@@ -74,7 +74,7 @@ setup( name        = 'Asciimation',
        author      = 'Jaewon Song',
        author_email= 'songjaewon@kaist.ac.kr',
        url         = 'https://github.com/songjaewon/AsciiAnimation',
-       packages    = ['DocuTest', 'AsciiAnimation'],
+       packages    = ['DocuTest'],
        classifiers = [
           'Development Status :: 5 - Production/Stable',
           'Environment :: X11 Applications',
