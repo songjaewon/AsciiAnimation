@@ -1,10 +1,14 @@
 Hangul Asciimation Project
 ==========================================
 
-Contents:
+Hangul Asciimation Python Project Documentation.
+Author : Jaewon Song <songjaewon@kaist.ac.kr>
 
 .. toctree::
    :maxdepth: 2
+
+   intro
+   api
 
 
 
