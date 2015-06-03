@@ -3,10 +3,12 @@ API
 
 This document explains API of Han-gul asciimation project.
 
+Test: Add module path to conf.py
 
 Module #1
 ___________________________________________
-.. autofunction:: io.open
+.. automodule:: DocuTest.docuModuleA
+    :members:
 
 
 Module #2
