@@ -4,7 +4,7 @@ API
 This document explains API of Han-gul asciimation project.
 
 Test Log:
-- Editing API.rst
+- Delete setup file, edit conf.py file with rel path
 
 Module A
 ___________________________________________
