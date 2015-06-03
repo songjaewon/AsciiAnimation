@@ -3,7 +3,10 @@ API
 
 This document explains API of Han-gul asciimation project.
 
-Test Log: Several document files in the docs folder are added
+Test Log:
+- Adding some public functions
+- Same way as conf.py path appending method
+
 
 Package
 __________________________________________

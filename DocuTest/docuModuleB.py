@@ -4,6 +4,15 @@ __author__ = 'cimple'
 This Python code is docuModuleB
 """
 
+def public_ftn_docuModuleB(argA, argB):
+    """
+    This function is public function of docuModuleB
+    :param argA: argument A
+    :param argB: argument B
+    :return: return value
+    """
+    return argA-argB
+
 class TestClassB():
     """
     This class is initial class of docuModuleB.
