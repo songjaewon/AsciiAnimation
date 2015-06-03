@@ -4,8 +4,7 @@ API
 This document explains API of Han-gul asciimation project.
 
 Test Log:
-- Badge has some problem.. I don't know the reason
-- conf.py absolute path is deleted.
+- Something is clear.
 
 
 Package
