@@ -1,5 +1,9 @@
 __author__ = 'cimple'
 
+"""
+This Python code is docuModuleB
+"""
+
 class TestClassB():
     """
     This class is initial class of docuModuleB.

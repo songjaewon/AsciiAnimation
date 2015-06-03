@@ -3,7 +3,12 @@ API
 
 This document explains API of Han-gul asciimation project.
 
-Test Log: conf.py file edited - extensions = ['sphin..'] added
+Test Log: Create package head, create new descriptions for docuModuleA, docuModuleB
+          config.py file import DocuTest added
+
+Package
+__________________________________________
+.. automodule:: DocuTest
 
 Module #1
 ___________________________________________
