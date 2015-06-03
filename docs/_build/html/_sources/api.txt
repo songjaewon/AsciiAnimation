@@ -3,8 +3,7 @@ API
 
 This document explains API of Han-gul asciimation project.
 
-Test Log: Create package head, create new descriptions for docuModuleA, docuModuleB
-          config.py file import DocuTest added
+Test Log: Several document files in the docs folder are added
 
 Package
 __________________________________________
