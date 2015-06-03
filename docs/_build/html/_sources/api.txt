@@ -10,6 +10,7 @@ Test Log:
 
 Package
 __________________________________________
+Why not? what is the problem?
 .. automodule:: DocuTest
 
 Module #1
