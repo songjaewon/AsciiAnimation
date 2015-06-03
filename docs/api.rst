@@ -12,6 +12,9 @@ Package
 __________________________________________
 Package description
 
+.. automodule:: io
+    :members:
+
 .. automodule:: DocuTest
 
 Module A
