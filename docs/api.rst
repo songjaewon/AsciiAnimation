@@ -1,21 +1,19 @@
-.. currentmodule:: DocuTest
-
 API
 ==========================================
 
 This document explains API of Han-gul asciimation project.
 
 Test Log:
-- Editing conf.py, __init__.py
+- Editing API.rst
 
 Module A
 ___________________________________________
 ModuleA description
 
-.. automodule:: docuModuleA
+.. automodule:: DocuTest.docuModuleA
     :members:
 
-.. autoclass:: docuModuleA.TestClassA
+.. autoclass:: DocuTest.docuModuleA.TestClassA
     :members:
 
 
@@ -23,8 +21,8 @@ Module B
 ____________________________________________
 ModuleB description
 
-.. automodule:: docuModuleB
+.. automodule:: DocuTest.docuModuleB
     :members:
 
-.. autoclass:: docuModuleB.TestClassB
+.. autoclass:: DocuTest.docuModuleB.TestClassB
     :members:
