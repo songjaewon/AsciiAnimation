@@ -7,9 +7,13 @@ This Python code is docuModuleA
 def public_ftn_docuModuleA(argA, argB):
     """
     This function is public function of docuModuleA
-    :param argA: argument A
-    :param argB: argument B
-    :return: return Nothing
+
+    Args:
+       argA (int): Input argument A
+       argB (int): Input argument B
+
+    Returns:
+       int. argument A + argument B
     """
     return argA+argB
 
