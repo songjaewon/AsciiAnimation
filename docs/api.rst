@@ -4,7 +4,7 @@ API
 This document explains API of Han-gul asciimation project.
 
 Test Log:
-- Skin code updated
+- AsciiAnimation module updated
 
 Package
 __________________________________________
