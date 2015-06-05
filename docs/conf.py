@@ -53,6 +53,9 @@ source_suffix = '.rst'
 
 # The encoding of source files.
 #source_encoding = 'utf-8-sig'
+source_encoding = 'cp949'
+
+
 
 # The master toctree document.
 master_doc = 'index'
@@ -76,7 +79,7 @@ release = 'a1'
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = None
+language = 'ko'
 
 # There are two options for replacing |today|: either, you set today to some
 # non-false value, then it is used:

@@ -1,6 +1,8 @@
 Hangul Asciimation Project
 ==========================================
 
+한글 아스키 애니메이션 프로젝트
+==========================================
 Hangul Asciimation Python Project Documentation.
 Author : Jaewon Song <songjaewon@kaist.ac.kr>
 

@@ -14,7 +14,7 @@ import numpy as np
 
 class FontAnalyzer():
     '''
-    한글 주석이 실행되는지 테스트입니다. 아마도 되기는 힘들겠죠..?
+    Font Analyzer 클래스입니다.
 
     **Note**
     Now it's only for the 2byte Han-gul(Korean word) TTF(True type font).
