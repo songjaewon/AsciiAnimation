@@ -154,11 +154,11 @@ def createHangulAsciiArt(uKoreanCharacterList, fontName, imgName):
         print
 
 
-standardKoreanCharacters = u'ㄱㄴㄷㄹㅁㅂㅅㅇㅈㅊㅋㅌㅍㅎㅏㅑㅓㅕㅗㅛㅜㅠㅡㅣㄲㄸㅃㅆㅉㅐㅒㅔㅖㅘㅙㅚㅝㅞㅟㅢㄲㅆㄳㄵㄶㄺㄻㄼㄽㄾㄿㅀㅄ'
-vmChar = u'ㄱㄴㄷㄹㅁㅂㅅㅇㅈㅊㅋㅌㅍㅎㅏㅑㅓㅕㅗㅛㅜㅠㅡㅣㄲㄸㅃㅆㅉㅐㅒㅔㅖㅘㅙㅚㅝㅞㅟㅢㄲㅆㄳㄵㄶㄺㄻㄼㄽㄾㄿㅀㅄ카이스트비주얼미디어랩'
+#standardKoreanCharacters = u'ㄱㄴㄷㄹㅁㅂㅅㅇㅈㅊㅋㅌㅍㅎㅏㅑㅓㅕㅗㅛㅜㅠㅡㅣㄲㄸㅃㅆㅉㅐㅒㅔㅖㅘㅙㅚㅝㅞㅟㅢㄲㅆㄳㄵㄶㄺㄻㄼㄽㄾㄿㅀㅄ'
+#vmChar = u'ㄱㄴㄷㄹㅁㅂㅅㅇㅈㅊㅋㅌㅍㅎㅏㅑㅓㅕㅗㅛㅜㅠㅡㅣㄲㄸㅃㅆㅉㅐㅒㅔㅖㅘㅙㅚㅝㅞㅟㅢㄲㅆㄳㄵㄶㄺㄻㄼㄽㄾㄿㅀㅄ카이스트비주얼미디어랩'
 
 
-createHangulAsciiArt(vmChar, 'malgun.ttf', 'vml100px.png')
+#createHangulAsciiArt(vmChar, 'malgun.ttf', 'vml100px.png')
 # for i in range(786):
 #     if i<10:
 #         fileName = 'yuna00'+str(i)+'.jpg'

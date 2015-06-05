@@ -4,17 +4,18 @@ API
 This document explains API of Han-gul asciimation project.
 
 Test Log:
-- Adding setup.py
-
+- AsciiAnimation module updated
 
 Package
 __________________________________________
 Package description
 
-.. automodule:: io
+.. automodule:: DocuTest
     :members:
 
-.. automodule:: DocuTest
+.. automodule:: AsciiAnimation
+    :members:
+
 
 Module A
 ___________________________________________
@@ -24,9 +25,11 @@ ModuleA description
     :members:
 
 
-Module B
-____________________________________________
-ModuleB description
 
-.. automodule:: DocuTest.docuModuleB
+
+FontAnalyzer
+_____________________________________________
+Font Analyzer description
+
+.. automodule:: AsciiAnimation.fontAnalyzer
     :members:
