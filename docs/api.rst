@@ -13,6 +13,8 @@ Package description
 .. automodule:: DocuTest
     :members:
 
+.. automodule:: AsciiAnimation
+    :members:
 
 
 Module A
@@ -24,9 +26,10 @@ ModuleA description
 
 
 
-Module B
-____________________________________________
-ModuleB description
 
-.. automodule:: io
+FontAnalyzer
+_____________________________________________
+Font Analyzer description
+
+.. automodule:: AsciiAnimation.fontAnalyzer
     :members:
