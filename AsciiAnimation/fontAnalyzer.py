@@ -8,9 +8,9 @@ __author__ = 'cimple'
 ..moduleauthor:: Jaewon Song <songjaewon@kaist.ac.kr>
 """
 
-#import freetype
-#import cv2
-#import numpy as np
+import freetype
+import cv2
+import numpy as np
 
 class FontAnalyzer():
     '''

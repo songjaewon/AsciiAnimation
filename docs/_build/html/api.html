@@ -132,6 +132,7 @@
 <dd><p>This function is for the start this module running</p>
 </dd></dl>
 
+<span class="target" id="module-AsciiAnimation"></span><p>Hangul Ascii Animation Project Module</p>
 </div>
 <div class="section" id="module-a">
 <h2>Module A<a class="headerlink" href="#module-a" title="Permalink to this headline">¶</a></h2>
@@ -175,6 +176,31 @@ argB (int): Input argument B</dd>
 <div class="section" id="fontanalyzer">
 <h2>FontAnalyzer<a class="headerlink" href="#fontanalyzer" title="Permalink to this headline">¶</a></h2>
 <p>Font Analyzer description</p>
+<span class="target" id="module-AsciiAnimation.fontAnalyzer"></span><dl class="class">
+<dt id="AsciiAnimation.fontAnalyzer.FontAnalyzer">
+<em class="property">class </em><code class="descclassname">AsciiAnimation.fontAnalyzer.</code><code class="descname">FontAnalyzer</code><a class="headerlink" href="#AsciiAnimation.fontAnalyzer.FontAnalyzer" title="Permalink to this definition">¶</a></dt>
+<dd><p>Font Analyzer Class.</p>
+<p><strong>Note</strong>
+Now it&#8217;s only for the 2byte Han-gul(Korean word) TTF(True type font).</p>
+<dl class="method">
+<dt id="AsciiAnimation.fontAnalyzer.FontAnalyzer.init_setFontStartEndIdx">
+<code class="descname">init_setFontStartEndIdx</code><span class="sig-paren">(</span><em>startIdx</em>, <em>endIdx</em><span class="sig-paren">)</span><a class="headerlink" href="#AsciiAnimation.fontAnalyzer.FontAnalyzer.init_setFontStartEndIdx" title="Permalink to this definition">¶</a></dt>
+<dd><p>Setup the font start and end index during the initialize step.
+:param startIdx: (int) start index of the font
+:param endIdx: (int) end index of the font
+:return: Nothing</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="AsciiAnimation.fontAnalyzer.FontAnalyzer.init_setuKoreanCharacterList">
+<code class="descname">init_setuKoreanCharacterList</code><span class="sig-paren">(</span><em>uKoreanString</em><span class="sig-paren">)</span><a class="headerlink" href="#AsciiAnimation.fontAnalyzer.FontAnalyzer.init_setuKoreanCharacterList" title="Permalink to this definition">¶</a></dt>
+<dd><p>Setup the Korean characters during the initialize step.
+:param uKoreanString: Unicode Korean Characters.
+:return: Nothing</p>
+</dd></dl>
+
+</dd></dl>
+
 </div>
 </div>
 
