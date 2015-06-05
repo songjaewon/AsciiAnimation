@@ -1,18 +1,18 @@
-#-*- coding: utf-8 -*-
-import numpy as np
-import cv2
-from matplotlib import pyplot as plt
-from freetype import *
-
-#Load an color image in grayscale
-img = cv2.imread('seq/yuna000.jpg',0)
-
-print img[0][0]
-
-for i in range(img.shape[1]):
-    for j in range(img.shape[0]):
-        print img[i][j],
-    print
+# #-*- coding: utf-8 -*-
+# import numpy as np
+# import cv2
+# from matplotlib import pyplot as plt
+# from freetype import *
+#
+# #Load an color image in grayscale
+# img = cv2.imread('seq/yuna000.jpg',0)
+#
+# print img[0][0]
+#
+# for i in range(img.shape[1]):
+#     for j in range(img.shape[0]):
+#         print img[i][j],
+#     print
 
 # f = open('youmi.txt', 'w')
 # for i in range(134):
